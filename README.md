@@ -1,6 +1,7 @@
 开发工具
 UNITY 2022.3.26f1
 打包教学
+https://www.bilibili.com/video/BV17b411f78B/?spm_id_from=333.337.search-card.all.click&vd_source=5e7331f28afe4ab47831db6b1fe009e8
 finished：
 
 商店功能
