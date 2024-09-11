@@ -17,7 +17,7 @@ public class GameManager : MonoBehaviour
     public float reduceValue = 1;
     //点击加的倍数
     internal int multiple = 1;
-
+    // 自动点击的时间
     internal float autoClickerTime = 0;
     //是否购买了加倍
     internal bool isUsed;
